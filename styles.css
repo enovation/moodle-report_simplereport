@@ -1,0 +1,21 @@
+/* 
+    Document   : styles
+    Created on : Jan 3, 2013, 1:11:58 PM
+    Author     : troche
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+table, th, tr, td{
+    
+border: 3px solid #C2E3C2;
+text-align: center;
+border-collapse:collapse;
+}
+
+/*
+td{    
+border: 3px solid #C2E3C2;
+text-align: center;
+}
+*/
